@@ -1,0 +1,3 @@
+Here are the instructions:
+
+Open REST client and perform post and get operations.
